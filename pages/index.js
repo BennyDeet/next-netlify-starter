@@ -8,10 +8,11 @@ export default function Home() {
       <Head>
         <title>Role Tube</title>
         <link rel="icon" href="/favicon.ico" />
+        <script src="https://apis.google.com/js/platform.js" async defer></script>
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hello Motherucka!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
